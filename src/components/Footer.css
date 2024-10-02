@@ -1,0 +1,26 @@
+.footer-link {
+  color: #f8f9fa;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #c23e35;
+  text-decoration: underline;
+}
+
+.flog-logo {
+  width: 100px;
+}
+
+.footer-address, .footer-title {
+  color: #f8f9fa;
+}
+
+.footer-social-link i {
+  font-size: 1.5rem;
+  color: #a51414;
+}
+
+.footer-social-link:hover i {
+  color: #8d2b1a;
+}
